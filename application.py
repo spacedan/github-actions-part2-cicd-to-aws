@@ -4,6 +4,7 @@
 #
 # Version      Date           Info
 # 1.0          13-Dec-2019    Initial Version
+# 2.0          17-March-2022  Updated
 #
 # ----------------------------------------------
 from flask import Flask, render_template
