@@ -7,4 +7,4 @@ Status of Last Deployment:<br>
 
 
 
-Copyleft Danny Huston, Ampsight INC 2022.
+Copyright Danny Huston, Ampsight INC 2022.
